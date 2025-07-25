@@ -28,4 +28,4 @@ This setup can be used in projects requiring simple temperature tracking, such a
 
 OUTPUT:
 
-<img width="1207" height="718" alt="Image" src="https://github.com/user-attachments/assets/efed754d-dd7e-4719-9108-6ee651cd6413" />
+<img width="1649" height="804" alt="Image" src="https://github.com/user-attachments/assets/0301a03e-f6a9-4477-96e9-df491446efbd" />
